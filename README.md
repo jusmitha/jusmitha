@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Programming
 - 🤔 I’m looking for help with Coding
 - 💬 Ask me about Anything
-- 📫 How to reach me mullapudiramadevi6@gmail.com
+- 📫 How to reach me pathuri.jusmitha@gmail.com
 - 😄 Pronouns jussi
 
 
