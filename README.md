@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Studying in :computer: Science Technology
-- 🌱 I’m currently learning C Programming
+- 🔭 I’m Graduate in computer Science Technology
 - 👯 I’m looking to collaborate on Programming
 - 🤔 I’m looking for help with Coding
 - 💬 Ask me about Anything
